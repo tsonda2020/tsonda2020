@@ -460,9 +460,7 @@ div .swiper-pagination-bullet-active{
   width:100% !important;
   height:320px !important;
 }
-.right .img-sl{
-width:100% !important;
-}
+.right .img-sl{width: 80% !important;margin-bottom: 25px !important;}
 .places{
   margin-top: 170px !important;
 }
