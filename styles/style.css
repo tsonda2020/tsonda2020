@@ -227,7 +227,7 @@ header .center-wrap .menu a:focus:after {
     width: 100%;
     z-index: 2;
     top: 0px;
-    padding: 0px 0px;
+    padding: 3px 0px;
     z-index: 9999;
   }
   .open-menu {
@@ -460,7 +460,7 @@ div .swiper-pagination-bullet-active{
   width:100% !important;
   height:320px !important;
 }
-.right .img-sl{width: 80% !important;margin-bottom: 25px !important;}
+.right .img-sl{width: 90% !important;margin-bottom: 25px !important;}
 .places{
   margin-top: 170px !important;
 }
