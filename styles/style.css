@@ -227,7 +227,7 @@ header .center-wrap .menu a:focus:after {
     width: 100%;
     z-index: 2;
     top: 0px;
-    padding: 5px 0px;
+    padding: 0px 0px;
     z-index: 9999;
   }
   .open-menu {
@@ -253,10 +253,10 @@ h1{
 }
 @media screen and (max-width:600px){
   .bg-slider{
-    height:550px;
+    height:600px;
   }
   .bg-slider .swiper-slide img{
-    height:550px;
+    height:600px;
   }
   h1{
     font-size:80px !important;
@@ -464,7 +464,7 @@ div .swiper-pagination-bullet-active{
 width:100% !important;
 }
 .places{
-  margin-top:120px !important;
+  margin-top: 170px !important;
 }
 .right{
   margin-top:50px;
